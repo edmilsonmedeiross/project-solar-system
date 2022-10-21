@@ -7,4 +7,5 @@ class SolarSystem extends Component {
     );
   }
 }
+
 export default SolarSystem;
