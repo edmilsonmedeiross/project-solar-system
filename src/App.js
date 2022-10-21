@@ -16,4 +16,4 @@ class App extends React.Component {
 }
 
 export default App;
-// coment
+// comentario requisito 10 ja tinha sido feito junto com o 9
