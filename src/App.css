@@ -1,3 +1,46 @@
+* {
+  background-image: url('./images/background.png');
+}
+
 .App {
+  border: 1px solid red;
   text-align: center;
+}
+
+.card {
+  border: 1px solid red;
+  border-radius: 17px;
+  color: white;
+  height: 192px;
+  left: 134px;
+  top: 1036px;
+  width: 496px;
+}
+
+.container-missions {
+  border: 1px solid red;
+  color: white;
+}
+
+.planet-list {
+  color: white;
+  display: flex;
+  justify-content: center;
+  left: 0;
+  top: 444px;
+}
+
+.planet-list div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+hr {
+  border: 2px solid white;
+  color: white;
+}
+
+header {
+  color: white
 }
